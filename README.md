@@ -34,7 +34,7 @@ The Advanced Encryption Standard or AES is a symmetric block cipher used by the 
  
  http://localhost:8080/public/
  
- ![first scenario ](https://github.com/akaiserg/symmetric_encryption_java_js/blob/master/pic1.png)
+ [first scenario ](https://github.com/akaiserg/symmetric_encryption_java_js/blob/master/pic1.png)
  
  ### Second scenario: Using login information 
 
@@ -44,5 +44,5 @@ The Advanced Encryption Standard or AES is a symmetric block cipher used by the 
  
  http://localhost:8080/intranet/
  
- ![first scenario ](https://github.com/akaiserg/symmetric_encryption_java_js/blob/master/pic1.png)
+ [second scenario ](https://github.com/akaiserg/symmetric_encryption_java_js/blob/master/pic2.png)
 
