@@ -24,3 +24,25 @@ The Advanced Encryption Standard or AES is a symmetric block cipher used by the 
 
 * CryptoJS 
 
+## Scenarios
+
+### First Scenario: Using obfuscation
+
+ * Example :
+
+ jetty:run
+ 
+ http://localhost:8080/public/
+ 
+ ![first scenario ](https://github.com/akaiserg/symmetric_encryption_java_js/blob/master/pic1.png)
+ 
+ ### Second scenario: Using login information 
+
+ * Example :
+
+ jetty:run
+ 
+ http://localhost:8080/intranet/
+ 
+ ![first scenario ](https://github.com/akaiserg/symmetric_encryption_java_js/blob/master/pic1.png)
+
